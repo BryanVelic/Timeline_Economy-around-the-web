@@ -1,4 +1,4 @@
-
+/* --------------------------Header----------------------------------------------------- */
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
 .frise-header {
@@ -22,6 +22,7 @@
     margin: 10px 0 0 0;
     font-weight: normal;
 }
+/* --------------------------Body----------------------------------------------------- */
 .article{
     text-decoration: none;
 }
@@ -146,4 +147,10 @@
     height: 3px;
     background: white;
     width: 0%;
+<<<<<<< Updated upstream:Frise Chrono/style.css
 }
+=======
+}
+
+/* ------------------------------------------------------------------------------- */
+>>>>>>> Stashed changes:Frise_Chrono/style.css
