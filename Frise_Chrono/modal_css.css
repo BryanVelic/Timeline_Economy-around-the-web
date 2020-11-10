@@ -10,11 +10,35 @@
 #a1970{
     margin-bottom: 60px;
 }
+#a1970_1{
+    margin-bottom: 60px;
+}
 #a1971{
     margin-bottom: 60px;
 }
+#a1972{
+    margin-bottom: 60px;
+}
+#a1973{
+    margin-bottom: 60px;
+}
+#a1974{
+    margin-bottom: 60px;
+}
+#a1974_1{
+    margin-bottom: 60px;
+}
+#a1975{
+    margin-bottom: 60px;
+}
+#a1975_1{
+    margin-bottom: 60px;
+}
+#a1975_2{
+    margin-bottom: 60px;
+}
 /*-----------------------------------Modal 1969----------------------------------------------*/
-.modal1969 {
+.modal1969amd {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
@@ -29,7 +53,7 @@
 }
 
 /* Modal Content */
-.modal-content1969 {
+.modal_content_amd_1969 {
   background-color: red;
   margin: auto;
   padding: 20px;
@@ -38,22 +62,22 @@
 }
 
 /* The Close Button */
-.close1969 {
+.closeamd1969 {
   color: #aaaaaa;
   float: right;
   font-size: 28px;
   font-weight: bold;
 }
 
-.close1969:hover,
-.close1969:focus {
+.closeamd1969:hover,
+.closeamd1969:focus {
   color: #000;
   text-decoration: none;
   cursor: pointer;
 }
 
-/*-----------------------------------Modal 1970----------------------------------------------*/
-.modal1970 {
+/*-----------------------------------Modal 1970 pdp----------------------------------------------*/
+.modal1970pdp {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
@@ -68,7 +92,7 @@
 }
 
 /* Modal Content */
-.modal-content1970 {
+.modal_content_pdp_1970 {
   background-color: green;
   margin: auto;
   padding: 20px;
@@ -77,22 +101,22 @@
 }
 
 /* The Close Button */
-.close1970 {
+.closepdp1970 {
   color: #aaaaaa;
   float: right;
   font-size: 28px;
   font-weight: bold;
 }
 
-.close1970:hover,
-.close1970:focus {
+.closepdp1970:hover,
+.closepdp1970:focus {
   color: #000;
   text-decoration: none;
   cursor: pointer;
 }
 
-/*-----------------------------------Modal 1971----------------------------------------------*/
-.modal1971 {
+/*-----------------------------------Modal 1970 souris----------------------------------------------*/
+.modal1970souris {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
@@ -107,7 +131,46 @@
 }
 
 /* Modal Content */
-.modal-content1971 {
+.modal_content_souris_1970 {
+  background-color: green;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closesouris1970 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closesouris1970:hover,
+.closesouris1970:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*-----------------------------------Modal 1971----------------------------------------------*/
+.modal19714004 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_4004_1971 {
   background-color: brown;
   margin: auto;
   padding: 20px;
@@ -116,15 +179,15 @@
 }
 
 /* The Close Button */
-.close1971 {
+.close40041971 {
   color: #aaaaaa;
   float: right;
   font-size: 28px;
   font-weight: bold;
 }
 
-.close1971:hover,
-.close1971:focus {
+.close40041971:hover,
+.close40041971:focus {
   color: #000;
   text-decoration: none;
   cursor: pointer;
@@ -132,6 +195,279 @@
 
 
 
+/*-----------------------------------Modal 1972----------------------------------------------*/
+.modal1972mess {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_mess_1972 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closemess1972 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemess1972:hover,
+.closemess1972:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+/*-----------------------------------Modal 1973----------------------------------------------*/
+.modal1973micro {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_micro_1973 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closemicro1973 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemicro1973:hover,
+.closemicro1973:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*-----------------------------------Modal 1974 cnil----------------------------------------------*/
+.modal1974cnil {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_cnil_1974 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closecnil1974 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closecnil1974:hover,
+.closecnil1974:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*-----------------------------------Modal 1974 8008----------------------------------------------*/
+.modal19748008 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_8008_1974 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.close80081974 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close80081974:hover,
+.close80081974:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*-----------------------------------Modal 1975 risc----------------------------------------------*/
+.modal1975risc {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_risc_1975 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closerisc1975 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closerisc1975:hover,
+.closerisc1975:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*-----------------------------------Modal 1975 mcsft----------------------------------------------*/
+.modal1975mcsft {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_mcsft_1975 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closemcsft1975 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemcsft1975:hover,
+.closemcsft1975:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*-----------------------------------Modal 1975 mos----------------------------------------------*/
+.modal1975mos {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal_content_mos_1975 {
+  background-color: brown;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+}
+
+/* The Close Button */
+.closemos1975 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closemos1975:hover,
+.closemos1975:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
 
 
 /*-------------------------------------------------------------------------------------------*/
