@@ -55,8 +55,6 @@
     display: flex;
     position: relative;
     transform: translateY(-80px);
-    max-width: 50%;
-    max-height: 50em;
 }
 .frise-item:before {
     content: attr(data-text);
@@ -129,13 +127,6 @@
     height: 3px;
     background: white;
     width: 0%;
-}
-.frise_contenu img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-	padding:10px 10px 10px 10px;
-
 }
 /* --------------------------Responsive----------------------------------------------------- */
 @media only screen and (max-width: 767px) {
