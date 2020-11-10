@@ -47,12 +47,11 @@
     line-height: 25px;
 }
 
-
 .frise-item {
     padding: 40px 0;
     transition: .5s;
     box-sizing: border-box;
-    width: calc(50% - 40px);
+    width: 95%;
     display: flex;
     position: relative;
     transform: translateY(-80px);
@@ -70,7 +69,6 @@
     margin-top: -5px;
     padding-left: 15px;
     opacity: 0;
-    right: calc(-100% - 56px);
 }
 .frise-item:nth-child(even) {
     align-self: flex-end;
@@ -96,24 +94,6 @@
 }
 .frise-item--active .frise_contenu-title {
     margin: -50px 0 20px 0;
-}
-@media only screen and (max-width: 767px) {
-    .frise-item {
-        align-self: baseline !important;
-        width: 100%;
-        padding: 0 30px 150px 80px;
-    }
-    .frise-item:before {
-        left: 10px !important;
-        padding: 0 !important;
-        top: 50px;
-        text-align: center !important;
-        width: 60px;
-        border: none !important;
-    }
-    .frise-item:last-child {
-        padding-bottom: 40px;
-    }
 }
 .frise_img {
     max-width: 100%;
@@ -147,10 +127,26 @@
     height: 3px;
     background: white;
     width: 0%;
-<<<<<<< Updated upstream:Frise Chrono/style.css
 }
-=======
+/* --------------------------Responsive----------------------------------------------------- */
+@media only screen and (max-width: 767px) {
+    .frise-item {
+        align-self: baseline !important;
+        width: 100%;
+        padding: 0 30px 150px 80px;
+    }
+    .frise-item:before {
+        left: 10px !important;
+        padding: 0 !important;
+        top: 50px;
+        text-align: center !important;
+        width: 60px;
+        border: none !important;
+    }
+    .frise-item:last-child {
+        padding-bottom: 40px;
+    }
 }
 
+
 /* ------------------------------------------------------------------------------- */
->>>>>>> Stashed changes:Frise_Chrono/style.css
