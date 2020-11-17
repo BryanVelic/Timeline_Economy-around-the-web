@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 /* --------------------------Header---------------------------------------------------- */
 
+=======
+/* --------------------------Header----------------------------------------------------- */
+​
+>>>>>>> Stashed changes
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
 .frise-header {
     width: 100%;
@@ -34,6 +39,7 @@
     flex-direction: column;
     max-width: 700px;
     position: relative;
+    background : darkslategrey;
 }
 
 .frise_contenu-desc {
@@ -47,6 +53,7 @@
     line-height: 25px;
 }
 
+​
 .frise-item {
     padding: 40px 0;
     transition: .5s;
@@ -134,8 +141,13 @@
   width: 200px;
   height: 200px;
   border-radius: 50%;
+<<<<<<< Updated upstream
 	padding:10px 10px 10px 10px;
 
+=======
+    padding:10px 10px 10px 10px;
+​
+>>>>>>> Stashed changes
 }
 /* --------------------------Responsive----------------------------------------------------- */
 @media only screen and (max-width: 767px) {
@@ -156,6 +168,12 @@
         padding-bottom: 40px;
     }
 }
+<<<<<<< Updated upstream
 
 
 /* ------------------------------------------------------------------------------- */
+=======
+​
+​
+/* ------------------------------------------------------------------------------- */
+>>>>>>> Stashed changes
